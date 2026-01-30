@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772180615394",
+    "project_id": "doctors-path-academy",
+    "storage_bucket": "doctors-path-academy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772180615394:android:9bc55f97de264c9bb13ebb",
+        "android_client_info": {
+          "package_name": "com.example.doctors_path_academy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9KRCZ_TJP6k5oWlqSea4xaRFHZHnefE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
